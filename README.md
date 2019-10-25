@@ -14,7 +14,4 @@ Recent revelations have disqualified the test scores of 9th grade glass at Thoma
 - By School Type: The percentage of students passing math and reading in charter schools both drop by 4% while the % overall passing drops by 3%. 
 
 ## Conclusion
-<<<<<<< HEAD
-Without the 9th graders' scores from Thomas High School in consideration, all parameters involving Thomas High School drop, but general trends in data remain the same. Math scores have a lower percentage of passing than reading. Medium and small sized schools perform better (with Thomas High being the outlier). This may or may be a more accurate representation of all districts performances because the fraudulent scores cannot skew the data. However, without any values for 461 students in the district, it's difficult to know exactly how accurate our conclusions are.
-=======
 Without the 9th graders' scores from Thomas High School in consideration, all parameters involving Thomas High School drop, but general trends in data remain the same. Math scores have a lower percentage of passing than reading. Medium and small sized schools perform better (with Thomas High being the outlier). This may or may be a more accurate representation of all districts performances because the fraudulent scores cannot skew the data. However, without any values for 461 students in the district, it's difficult to know exactly how accurate our conclusions are.
